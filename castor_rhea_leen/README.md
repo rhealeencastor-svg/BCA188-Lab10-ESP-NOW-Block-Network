@@ -8,10 +8,10 @@
 | MAC addresses heard | |
 | Block window date and time | |
 
+## DOCUMENTATION
 ## Serial Monitor Screenshot
 
-<!-- Add the screenshot showing the count and MAC addresses here. -->
 
 ## 30-Second Screen Video
 
-<!-- Add the 30-second Serial Monitor recording here. -->
+
