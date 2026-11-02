@@ -112,7 +112,6 @@ void setup() {
 
   startedAt = lastReport = millis();
   nextSend = startedAt + esp_random() % 1000;
-  Serial.println("Sample sketch: same sketch and channel required on the other boards.");
   printReport();
 }
 
